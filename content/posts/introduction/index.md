@@ -1,18 +1,16 @@
 ---
-title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+title: "Welcome to my Portfolio"
+date: 2021-03-21T22:26:25+06:00
+description: A welcome post for the visitors
 menu:
   sidebar:
-    name: Introduction
-    identifier: introduction
+    name: Welcome
+    identifier: welcome
     weight: 10
-tags: ["Basic", "Multi-lingual"]
-categories: ["Basic"]
+hero: welcome.jpg
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+Greeting! Thank you for visiting my portfolio.
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+Photo by <a href="https://unsplash.com/es/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Fewings
+</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

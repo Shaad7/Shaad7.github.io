@@ -3,22 +3,32 @@ section:
   name: Achievements
   id: achievements
   enable: true
-  weight: 9
+  weight: 7
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
-# Your achievements achievements
+# my achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+- title: USTC Inter University Programming Contest 2019
+  image: images/sections/achievements/1.jpg
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
+- title: USTC Inter University Programming Contest 2019
+  image: images/sections/achievements/2.jpg
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
+- title: NSTU IUPC 2020
+  image: images/sections/achievements/3.jpg
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
+- title: BAIUST IUPC 2020
+  image: images/sections/achievements/4.jpg
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
+- title: CSE CU Intra University Programming Contest 2019
+  image: images/sections/achievements/5.JPG
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
+- title: CSE CU Intra University Programming Contest 2019
+  image: images/sections/achievements/6.jpg
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
+- title: CUET IUPC 2017
+  image: images/sections/achievements/7.jpg
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
+

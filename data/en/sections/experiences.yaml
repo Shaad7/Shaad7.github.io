@@ -11,54 +11,29 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
+    name: AppCode Ltd.
+    url: "https://www.appscode.com"
     location: Dhaka Branch
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
-  positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
-
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: AppsCode Ltd. is a subsidiary company of AppsCode Inc. USA. Its mission is to accelerate the transition to Containers by building a Kubernetes-native Data Platform.
   positions:
   - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+    start: Novemver 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Design, implement and maintain k8s operator for Redis in [KubeDB](https://kubedb.com/)
+    - Implemented Redis plugin for [KubeVault](https://kubevault.com/)
+
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Kite Games Studio.
+    url: "https://www.kitegamesstudio.com/"
+    location: Dhaka, Bangladesh
+    overview: Kite Games Studio develop iPhone & iPad applications for the Apple App Store mainly focused on Image and Video processing.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Junior Software Engineer
+    start: August 2020
+    end: October 2021
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Design and implement AI Effect feature of [AMTV App](https://apps.apple.com/us/app/add-music-to-video-editor/id947792997)
+    - Implement different features for iOS apps.
+
