@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# my projects
+projects:
+- name: KubeVault
+  logo: images/sections/projects/kubevault.png
+  role: Developer
+  timeline: "Novemver 2022 - Present"
+  repo: https://github.com/kubevault
+  #url: ""
+  summary: KubeVault by AppsCode helps users run Hashicorp Vault on Kubernetes.
+  tags: ["professional", "kubernetes", "vault"]
+
+- name: KubeDB
+  logo: images/sections/projects/kubedb.png
+  role: Developer (Redis Operator)
+  timeline: "February 2022 - Present"
+  repo: https://github.com/kubedb/
+  #url: ""
+  summary: KubeDB by AppsCode simplifies and automates routine database tasks such as provisioning, patching, backup, recovery, failure detection, and repair for various popular databases on private and public clouds.
+  tags: ["professional", "kubernetes", "database"]
+
+
+- name: Hate Speech Detection on Twitter Focusing on Ensemble of Features
+  role: Owner
+  timeline: "July 2019 - February 2020"
+  url: "https://drive.google.com/file/d/1W6A2VJvMOAlhviVQZUv8Og4yX5iX4Mea/view"
+  summary:
+    This project aims to propose a solution to detection of hate speech on twitter using machine learning classifier. We processed natural language and generated different text based feature. ML models used those features to predict a tweet if it is hate speech or not.
+  tags: ["academic","nlp"]
+
+- name: Bookstore API Server
+  logo: images/sections/projects/server.png
+  role: Owner
+  timeline: "Jun 2020 - Present"
+  repo: https://github.com/Shaad7/bookstore-api-server
+  summary: A simple API server can be used as a backend of an e-bookstore.
+  tags: ["hobby","rest","go"]
