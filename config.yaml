@@ -1,4 +1,4 @@
-baseURL: https://Shaad7.github.io
+baseURL: https://abdullahalshaad.github.io
 
 languageCode: en-us
 title: "Abdullah Al Shaad"
@@ -64,7 +64,7 @@ params:
   #   favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/Shaad7/Shaad7.github.io
+  gitRepo: https://github.com/AbdullahAlShaad/abdullahalshaad.github.io
   # Default branch of your Git repo
   gitBranch: main
 

@@ -1,4 +1,4 @@
-module github.com/Shaad7/Shaad7.github.io
+module github.com/AbdullahAlShaad/abdullahalshaad.github.io
 
 go 1.19
 
